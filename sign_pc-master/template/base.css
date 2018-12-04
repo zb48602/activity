@@ -1,0 +1,17 @@
+html{font-size: 62.5%;}
+body,p,ul,h3,ol,h4{margin: 0;}
+ul,ol,input{padding: 0;}
+a{text-decoration: none;}
+a:hover{color: #F64141;}
+li{list-style: none;}
+input,button,select{
+	border: 0;outline: none;
+}
+img{
+	border: 0;
+}
+body{
+	background: url(../public/img/h4.jpg) no-repeat;
+	background-size:100% 100%; 
+	background-attachment: fixed;
+}
